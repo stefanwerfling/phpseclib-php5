@@ -1,5 +1,12 @@
 # phpseclib-php5
 
+> ## Abandoned! Or, rather, rebranded!
+>
+> ABANDONED in favour of the 2.0 branch in the phpseclib repository.
+>  https://github.com/phpseclib/phpseclib/tree/2.0
+>
+
+
 PHP5 offers several features that PHP4 doesn't offer. This repo takes advantage of those features.
 
 To keep this repo up-to-date with the baseline phpseclib do the following:
